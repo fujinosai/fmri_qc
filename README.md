@@ -46,7 +46,7 @@ Parameters:​​
 [--wkdir WORKING_DIR]: Working directory path (optional, defaults to current directory).
 [--config CONFIG_FILE]: Path to a custom configuration JSON file (optional).
 
-Phase 2: Optimal Threshold Application
+### Phase 2: Optimal Threshold Application
 After completing Phase 1, run the following command to apply the optimal thresholds:
 
 ```bash
